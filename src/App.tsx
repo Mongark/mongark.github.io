@@ -7,7 +7,9 @@ function App() {
   return (
     <>
       <div>
-      	Hello
+      	<h1>Geo Principe - Portfolio</h1>
+
+	<h4>Hello and welcome to my personal website.</h4>
       </div>
     </>
   )
