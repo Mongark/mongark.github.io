@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    name: Build
+    name: Building Vite App
     runs-on: ubuntu-latest
 
     steps:
